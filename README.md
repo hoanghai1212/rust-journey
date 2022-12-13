@@ -5,3 +5,4 @@
     1. Getting Started
         1.1. Installation :heavy_check_mark:
         1.2. Hello, World! :heavy_check_mark:
+        1.3. Hello, Cargo! :heavy_check_mark:
