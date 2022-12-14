@@ -7,12 +7,12 @@
    - [x] Hello, World!
    - [x] Hello, Cargo!
 2. Programming a Guessing Game :white_check_mark:
-3. Common Programming Concepts
+3. Common Programming Concepts :white_check_mark:
    - [x] Variables and Mutability
-   - [ ] Data Types
-   - [ ] Functions
-   - [ ] Comments
-   - [ ] Control Flow
+   - [x] Data Types
+   - [x] Functions
+   - [x] Comments
+   - [x] Control Flow
 4. Understanding Ownership
    - [ ] What is Ownership?
    - [ ] References and Borrowing
