@@ -8,7 +8,7 @@
    - [x] Hello, Cargo!
 2. Programming a Guessing Game :white_check_mark:
 3. Common Programming Concepts
-   - [ ] Variables and Mutability
+   - [x] Variables and Mutability
    - [ ] Data Types
    - [ ] Functions
    - [ ] Comments
