@@ -14,9 +14,9 @@
    - [x] Comments
    - [x] Control Flow
 4. Understanding Ownership
-   - [ ] What is Ownership?
-   - [ ] References and Borrowing
-   - [ ] The Slice Type
+   - [x] What is Ownership?
+   - [x] References and Borrowing
+   - [] The Slice Type
 5. Using Structs to Structure Related Data
    - [ ] Defining and Instantiating Structs
    - [ ] An Example Program Using Structs
