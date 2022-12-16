@@ -16,7 +16,7 @@
 4. Understanding Ownership
    - [x] What is Ownership?
    - [x] References and Borrowing
-   - [] The Slice Type
+   - [x] The Slice Type
 5. Using Structs to Structure Related Data
    - [ ] Defining and Instantiating Structs
    - [ ] An Example Program Using Structs
