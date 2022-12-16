@@ -18,8 +18,8 @@
    - [x] References and Borrowing
    - [x] The Slice Type
 5. Using Structs to Structure Related Data
-   - [ ] Defining and Instantiating Structs
-   - [ ] An Example Program Using Structs
+   - [x] Defining and Instantiating Structs
+   - [x] An Example Program Using Structs
    - [ ] Method Syntax
 6. Enums and Pattern Matching
    - [ ] Defining an Enum
