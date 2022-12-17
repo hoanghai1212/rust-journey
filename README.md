@@ -20,17 +20,17 @@
 5. Using Structs to Structure Related Data
    - [x] Defining and Instantiating Structs
    - [x] An Example Program Using Structs
-   - [ ] Method Syntax
+   - [x] Method Syntax
 6. Enums and Pattern Matching
-   - [ ] Defining an Enum
-   - [ ] The match Control Flow Operator
-   - [ ] Concise Control Flow with if let
+   - [x] Defining an Enum
+   - [x] The match Control Flow Operator
+   - [x] Concise Control Flow with if let
 7. Managing Growing Projects with Packages, Crates, and Modules
-   - [ ] Packages and Crates
-   - [ ] Defining Modules to Control Scope and Privacy
-   - [ ] Paths for Referring to an Item in the Module Tree
-   - [ ] Bringing Paths into Scope with the use Keyword
-   - [ ] Separating Modules into Different Files
+   - [x] Packages and Crates
+   - [x] Defining Modules to Control Scope and Privacy
+   - [x] Paths for Referring to an Item in the Module Tree
+   - [x] Bringing Paths into Scope with the use Keyword
+   - [x] Separating Modules into Different Files
 8. Common Collections
    - [ ] Storing Lists of Values with Vectors
    - [ ] Storing UTF-8 Encoded Text with Strings
