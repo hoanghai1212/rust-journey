@@ -32,9 +32,9 @@
    - [x] Bringing Paths into Scope with the use Keyword
    - [x] Separating Modules into Different Files
 8. Common Collections
-   - [ ] Storing Lists of Values with Vectors
-   - [ ] Storing UTF-8 Encoded Text with Strings
-   - [ ] Storing Keys with Associated Values in Hash Maps
+   - [x] Storing Lists of Values with Vectors
+   - [x] Storing UTF-8 Encoded Text with Strings
+   - [x] Storing Keys with Associated Values in Hash Maps
 9. Error Handling
    - [ ] Unrecoverable Errors with panic!
    - [ ] Recoverable Errors with Result
