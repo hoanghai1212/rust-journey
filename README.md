@@ -59,11 +59,11 @@
     - [x] Processing a Series of Items with Iterators
     - [x] Improving Our I/O Project
 14. More about Cargo and Crates.io
-    - [ ] Customizing Builds with Release Profiles
-    - [ ] Publishing a Crate to Crates.io
-    - [ ] Cargo Workspaces
-    - [ ] Installing Binaries from Crates.io with cargo install
-    - [ ] Extending Cargo with Custom Commands
+    - [x] Customizing Builds with Release Profiles
+    - [x] Publishing a Crate to Crates.io
+    - [x] Cargo Workspaces
+    - [x] Installing Binaries from Crates.io with cargo install
+    - [x] Extending Cargo with Custom Commands
 15. Smart Pointers
     - [ ] Using Box<T> to Point to Data on the Heap
     - [ ] Treating Smart Pointers Like Regular References with the Deref Trait
