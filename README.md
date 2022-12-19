@@ -40,9 +40,9 @@
    - [x] Recoverable Errors with Result
    - [x] To panic! or Not to panic!
 10. Generic Types, Traits, and Lifetimes
-    - [ ] Generic Data Types
-    - [ ] Traits: Defining Shared Behavior
-    - [ ] Validating References with Lifetimes
+    - [x] Generic Data Types
+    - [x] Traits: Defining Shared Behavior
+    - [x] Validating References with Lifetimes
 11. Writing Automated Tests
     - [ ] How to Write Tests
     - [ ] Controlling How Tests Are Run
