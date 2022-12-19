@@ -44,9 +44,9 @@
     - [x] Traits: Defining Shared Behavior
     - [x] Validating References with Lifetimes
 11. Writing Automated Tests
-    - [ ] How to Write Tests
-    - [ ] Controlling How Tests Are Run
-    - [ ] Test Organization
+    - [x] How to Write Tests
+    - [x] Controlling How Tests Are Run
+    - [x] Test Organization
 12. An I/O Project: Building a Command Line Program
     - [ ] Accepting Command Line Arguments
     - [ ] Reading a File
