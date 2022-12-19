@@ -48,16 +48,16 @@
     - [x] Controlling How Tests Are Run
     - [x] Test Organization
 12. An I/O Project: Building a Command Line Program
-    - [ ] Accepting Command Line Arguments
-    - [ ] Reading a File
-    - [ ] Refactoring to Improve Modularity and Error Handling
-    - [ ] Developing the Library’s Functionality with Test-Driven Development
-    - [ ] Working with Environment Variables
-    - [ ] Writing Error Messages to Standard Error Instead of Standard Output
+    - [x] Accepting Command Line Arguments
+    - [x] Reading a File
+    - [x] Refactoring to Improve Modularity and Error Handling
+    - [x] Developing the Library’s Functionality with Test-Driven Development
+    - [x] Working with Environment Variables
+    - [x] Writing Error Messages to Standard Error Instead of Standard Output
 13. Functional Language Features: Iterators and Closures
-    - [ ] Closures: Anonymous Functions that Can Capture Their Environment
-    - [ ] Processing a Series of Items with Iterators
-    - [ ] Improving Our I/O Project
+    - [x] Closures: Anonymous Functions that Can Capture Their Environment
+    - [x] Processing a Series of Items with Iterators
+    - [x] Improving Our I/O Project
 14. More about Cargo and Crates.io
     - [ ] Customizing Builds with Release Profiles
     - [ ] Publishing a Crate to Crates.io
